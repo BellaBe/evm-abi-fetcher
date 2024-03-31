@@ -1,0 +1,19 @@
+{
+  "name": "evm-abi-fetcher",
+  "version": "1.0.0",
+  "description": "EVM ABI Fetcher is a TypeScript tool designed to automate the retrieval of Application Binary Interfaces (ABIs) for smart contracts, streamlining development workflows for Ethereum and EVM-compatible blockchain projects.",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.2",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  }
+}
