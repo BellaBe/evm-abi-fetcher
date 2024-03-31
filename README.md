@@ -18,7 +18,7 @@ Smart contract interactions require ABIs, and manual management of these can be 
 To get started with EVM ABI Fetcher, clone the repository and install its dependencies:
 
 ```bash
-git clone https://github.com/yourusername/evm-abi-fetcher.git
+git clone https://github.com/BellaBe/evm-abi-fetcher.git
 cd evm-abi-fetcher
 npm install
 ```
